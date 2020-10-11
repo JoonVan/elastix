@@ -181,6 +181,4 @@ protected:
 
 } // end namespace xoutlibrary
 
-#include "xoutbase.hxx"
-
 #endif // end #ifndef __xoutbase_h
